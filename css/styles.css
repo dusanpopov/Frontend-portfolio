@@ -443,7 +443,6 @@ main{
 .testimonials-section__card:hover .testimonials-section__content,
 .testimonials-section__card:active .testimonials-section__content{
     transform: scaleY(1);
-    /* opacity: 1; */
     transform-origin: center;
 }
 
