@@ -21,8 +21,8 @@
     --color-white: #fff;
 }
 
-html{
-    scroll-behavior: smooth;
+html:focus-within {
+  scroll-behavior: smooth;
 }
 
 body{
