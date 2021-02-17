@@ -157,22 +157,18 @@ main{
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-
     display: flex;
     justify-content: flex-start;
     align-items: center;
 }
 
-
 .hero-section__content{
     background-color: var(--tertiary-color-m);
     padding: calc(1rem + 2vw);
     height: calc(5rem + 20vmax);
-
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-
     animation: herosection 2.3s cubic-bezier(0.68, -0.55, 0.27, 1.55);
 }
 
@@ -273,10 +269,8 @@ main{
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-
     padding: 2rem;
     background-color: var(--secondary-color);
-
 }
 
 .about-section__img,
