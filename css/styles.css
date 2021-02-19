@@ -521,7 +521,6 @@ input::placeholder, textarea::placeholder{
         transform: scaleY(0);
         transform-origin: bottom;
         text-align: center;
-
     }
 }
 
@@ -529,7 +528,6 @@ input::placeholder, textarea::placeholder{
     .main-header{
         position: absolute;
     }
-
     .main-navbar{
     width: 30rem;
     height: 100%;
@@ -554,7 +552,6 @@ input::placeholder, textarea::placeholder{
     background-color: var(--secondary-color);
     padding: 1rem;
     border-radius: 50%;
-
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -634,8 +631,6 @@ input::placeholder, textarea::placeholder{
     .service-section__paragraph{
         font-size: calc(0.8rem + 1.5vw);
     }
-
-
 }
 
 @media screen and (max-width: 900px){
