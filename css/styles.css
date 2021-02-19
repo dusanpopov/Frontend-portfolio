@@ -507,7 +507,6 @@ input[type="submit"]:hover{
     background-color: var(--primary-color);
 }
 
-
 input::placeholder, textarea::placeholder{
     color: var(--color-white);
 }
