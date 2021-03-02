@@ -477,7 +477,6 @@ main{
 
 .contact__form input,
 .contact__form textarea{
-   
     font-size: 1.5rem;
     margin-top: 1.2rem;
     width: 100%;
@@ -499,7 +498,6 @@ input[type="submit"]{
     background-color: var(--primary-color-m);
     color: var(--color-white);
     transition: all 0.3s ease-in-out;
-    
 }
 
 input[type="submit"]:hover{
