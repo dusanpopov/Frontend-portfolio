@@ -358,7 +358,6 @@ main{
     border-right: 0.3rem solid var(--secondary-color);
     border-left: 0.3rem solid var(--secondary-color);
     color: var(--color-white);
-
     position: relative;
     z-index: 1;
 }
