@@ -631,7 +631,6 @@ input::placeholder, textarea::placeholder{
 
 @media screen and (max-width: 900px){
     .hero-section{
-        /* background-position: 100%; */
         align-items: flex-end;
     } 
 }
