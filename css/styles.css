@@ -419,7 +419,6 @@ main{
     width: 80%;
     background-color: var(--primary-color-m-opacity);
     padding: 1.2rem; 
-    /* opacity: 0; */
     transform: scaleY(0);
     transform-origin: top;
     transition: transform 0.35s ease-in-out;
