@@ -176,7 +176,6 @@ main{
         transform: translateX(60rem) rotate(360deg);
         opacity: 0;
     }
-
     100%{
         transform: translateX(0);
         opacity: 1;
@@ -395,7 +394,7 @@ main{
 /* Testimonials section */
 
 .testimonials-section{
- padding: calc(1rem + 2vw);
+  padding: calc(1rem + 2vw);
   background-color: var(--secondary-color);
   color: white;
   display: flex;
