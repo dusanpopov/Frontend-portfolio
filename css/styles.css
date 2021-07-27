@@ -7,7 +7,6 @@
 }
 
 /* Utilities */
-
 :root{
       font-size: 62.5%;
     --primary-color:#0c2461;
@@ -41,7 +40,6 @@ a, a:visited{
 }
 
 /* Navbar styling */
-
 .side-nav{
     position: sticky;
     top: 0;
@@ -149,7 +147,6 @@ main{
 }
 
 /* Hero section */
-
 .hero-section{
     height: 100vh;
     background-image: url("../img/hero section 3.jpg");
@@ -228,7 +225,6 @@ main{
 }
 
 /* Work section*/
-
 .projects__title{
     font-size: 3rem;
 }
@@ -260,7 +256,6 @@ main{
 }
 
 /* About section */
-
 .about-section{
     display: flex;
     justify-content: space-around;
@@ -337,7 +332,6 @@ main{
 }
 
 /* Services section */
-
 .services-section{
     display: flex;
     justify-content: center;
@@ -392,7 +386,6 @@ main{
 }
 
 /* Testimonials section */
-
 .testimonials-section{
   padding: calc(1rem + 2vw);
   background-color: var(--secondary-color);
@@ -452,7 +445,6 @@ main{
 }
 
 /* Contact section */
-
 .contact-section{
     height: 100vh;
     background-image: url("../img/contact-background.jpg");
@@ -505,7 +497,6 @@ input::placeholder, textarea::placeholder{
 }
 
 /* Media queries */
-
 @media screen and (max-width: 460px){
     .testimonials-section__content{
         top: 0;
