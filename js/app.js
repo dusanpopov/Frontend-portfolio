@@ -6,5 +6,5 @@ hamburgerMenu.addEventListener("click", () => {
     hamburgerContainer.classList.toggle("clicked");
     links.forEach((link) => {
         link.classList.toggle("fade");
-    })
+    });
 });
