@@ -424,7 +424,7 @@ main{
 
 .testimonials-section__card:hover .testimonials-section__image img,
 .testimonials-section__card:active .testimonials-section__image img{
-    transform: scale(0.97);
+    transform: scale(0.95);
 }
 
 .testimonials-section__image{
